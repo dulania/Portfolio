@@ -3,9 +3,13 @@ I am a Data Scientist, GIS Enthusiast and problem solver with a passion for turn
 
 ## SKILLS
 **- ✅ Python **
+
 **- ✅ R **
+
 **- ✅ SQL **
+
 **- ✅ Power BI **
+
 **- ✅ ArcGIS **
 
 
