@@ -4,20 +4,13 @@ I am a Data Scientist, GIS Enthusiast and problem solver with a passion for turn
 ## SKILLS
 **- ✅ Python**
 
-**- ✅ R **
+**- ✅ R**
 
-**- ✅ SQL **
+**- ✅ SQL**
 
-**- ✅ Power BI **
+**- ✅ Power BI**
 
-**- ✅ ArcGIS **
-
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-
+**- ✅ ArcGIS**
 
 
 ## MY PORTFOLIO
@@ -43,7 +36,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/dulani-kapuduwage-118050117/"></a></td>
+      <td><a href="[https://linkedin.com/in/dulani-kapuduwage-118050117/](https://www.linkedin.com/in/dulani-kapuduwage-118050117/)"></a></td>
     </tr>
   </tbody>
 </table>
