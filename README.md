@@ -2,11 +2,11 @@
 I am a Data Scientist, GIS Enthusiast and problem solver with a passion for turning data into actionable insights. I have 1.5 years of experience as a Data Scientist with CW Mining Consultants Pty. Ltd. I completed the Master of Data Science Program at The University of Queensland and a B.Sc. Engineering (Hons.) in Process Engineering at the University of Moratuwa, Sri Lanka.
 
 ## SKILLS
-**- ✅ Python
-**- ✅ R
-**- ✅ SQL
-**- ✅ Power BI
-**- ✅ ArcGIS
+**- ✅ Python **
+**- ✅ R **
+**- ✅ SQL **
+**- ✅ Power BI **
+**- ✅ ArcGIS **
 
 
 ## MY PORTFOLIO
