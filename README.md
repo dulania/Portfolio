@@ -36,7 +36,7 @@ I am a Data Scientist, GIS Enthusiast and problem solver with a passion for turn
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="[https://linkedin.com/in/dulani-kapuduwage-118050117/](https://www.linkedin.com/in/dulani-kapuduwage-118050117/)"></a></td>
+      <td><a href="https://linkedin.com/in/dulani-kapuduwage-118050117/"> Connect on LinkedIN</a></td>
     </tr>
   </tbody>
 </table>
