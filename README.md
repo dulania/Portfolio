@@ -12,6 +12,13 @@ I am a Data Scientist, GIS Enthusiast and problem solver with a passion for turn
 
 **- ✅ ArcGIS **
 
+**- ✅ Data Analytics Consulting.**
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+
+**- ✅ Staff Training & Development.**
+I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+
+
 
 ## MY PORTFOLIO
 *A glimpse of some of the projects I've been working on.*
