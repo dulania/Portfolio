@@ -13,8 +13,10 @@ I am a Data Scientist, GIS Enthusiast and problem solver with a passion for turn
 **- ✅ ArcGIS**
 
 
-## MY PORTFOLIO
+## MY PROJECTS
 *A glimpse of some of the projects I've been working on.*
+
+## Capstone Project: Find the Probability of Winning or Losing a Test Cricket Match under The Home Advantage Effect.
 
 
 ## CONTACT DETAILS
