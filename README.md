@@ -1,5 +1,13 @@
 ## ABOUT ME
-I am a Data Scientist, GIS Enthusiast and problem solver with a passion for turning data into actionable insights. I completed the Master of Data Science Program at The University of Queensland. 
+I am a Data Scientist, GIS Enthusiast and problem solver with a passion for turning data into actionable insights. I have 1.5 years of experience as a Data Scientist with CW Mining Consultants Pty. Ltd. I completed the Master of Data Science Program at The University of Queensland and a B.Sc. Engineering (Hons.) in Process Engineering at the University of Moratuwa, Sri Lanka.
+
+## SKILLS
+**_ Python
+**_ R
+**_ SQL
+**_ Power BI
+**_ ArcGIS
+
 
 ## MY PORTFOLIO
 *A glimpse of some of the projects I've been working on.*
@@ -21,6 +29,10 @@ I am a Data Scientist, GIS Enthusiast and problem solver with a passion for turn
     <tr>
       <td>📍</td>
       <td>Perth, Western Australia</td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/dulani-kapuduwage-118050117/"></a></td>
     </tr>
   </tbody>
 </table>
